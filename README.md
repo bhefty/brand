@@ -1,6 +1,6 @@
 # Brand assets
-<hr>
+<br>
 
 ## Icon
-<hr>
-![React Redux Boilerplate](assets/react_boilerplate_logo.png)
+<br>
+<img src='assets/react_boilerplate_logo.png' alt='logo' />
